@@ -3,6 +3,7 @@ title: "HelloWorld"
 author: "Mahshad"
 date: "7/27/2020"
 output: html_document
+keep_md: true
 ---
 
 ```{r setup, include=FALSE}
